@@ -1,0 +1,35 @@
+@media (max-width: 1024px) {
+    header {
+        display: flex;
+        justify-content: center;
+        padding: 0;
+    }
+    nav {
+        margin-left: 20px;
+    }
+    .home {
+        margin: 0;
+    }
+    .home-content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .home-button {
+        margin: 0 auto 152px;
+    }
+    .services-block {
+        width: 1024px;
+    }
+    .service-blocks {
+        width: 1024px;
+    }
+    .block {
+        width: 300px;
+    }
+    .home-text-block {
+        margin-right: 0px;
+    }
+    .service-text {
+        width: 1024px;
+    }
+}
