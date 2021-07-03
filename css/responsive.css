@@ -1,3 +1,8 @@
+@media (max-width:1585px) {
+    .home-button {
+        margin: 0 auto 80px;
+    }
+}
 @media (max-width: 1024px) {
     header {
         padding-right: 150px;
